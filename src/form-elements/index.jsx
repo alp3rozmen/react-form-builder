@@ -688,7 +688,7 @@ class Camera extends React.Component {
                   <div className="btn btn-default">
                     <i className="fas fa-camera"></i> Upload Photo
                   </div>
-                  <p>Select an image from your computer or device.</p>
+                  <p>Bilgisayarınızdan veya cihazınızdan bir resim seçin.</p>
                 </div>
               </div>
 
