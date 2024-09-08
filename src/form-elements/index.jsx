@@ -686,7 +686,7 @@ class Camera extends React.Component {
                 />
                 <div className="image-upload-control">
                   <div className="btn btn-default">
-                    <i className="fas fa-camera"></i> Upload Photo
+                    <i className="fas fa-camera"></i> Resim Yükle
                   </div>
                   <p>Bilgisayarınızdan veya cihazınızdan bir resim seçin.</p>
                 </div>
@@ -705,7 +705,7 @@ class Camera extends React.Component {
                     className="btn btn-image-clear"
                     onClick={this.clearImage}
                   >
-                    <i className="fas fa-times"></i> Clear Photo
+                    <i className="fas fa-times"></i> Resmi Sil
                   </div>
                 </div>
               )}
